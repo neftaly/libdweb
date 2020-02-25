@@ -1,6 +1,5 @@
-# Status
-
-In the process of migration to https://github.com/mozilla/gecko-dev/, once completed repo will get archieved. Please [submit new bugs](https://bugzilla.mozilla.org/enter_bug.cgi?product=WebExtensions&component=Experiments) in bugzilla and make them blockers for [libdweb metabug](https://bugzilla.mozilla.org/show_bug.cgi?id=libdweb)
+This repo has has moved to https://github.com/libdweb/libdweb
+---
 
 # libdweb
 
